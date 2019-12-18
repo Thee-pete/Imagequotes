@@ -1,0 +1,8 @@
+<application >
+    <component name="WindowManager">
+        <frame extended-state="7" height="940" width="1015" x="745" y="55" />
+        <layout>
+            <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+        </layout>
+    </component>
+</application >

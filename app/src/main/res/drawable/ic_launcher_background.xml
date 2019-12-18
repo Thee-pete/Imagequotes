@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="AndroidLayouts">
+        <shared>
+            <config />
+        </shared>
+    </component>
+    <component name="CMakeSettings">
+        <configurations>
+            <configuration
+                CONFIG_NAME="Debug"
+                PROFILE_NAME="Debug" />
+        </configurations>
+    </component>
+    <component name="ChangeListManager">
+        <list
+            name="Default"
+            comment=""
+            default="true"
+            id="5c2cdb04-44a7-402f-9f2e-46a980e9f218" />
+        <option
+            name="EXCLUDED_CONVERTED_TO_IGNORED"
+            value="true" />
+        <option
+            name="TRACKING_ENABLED"
+            value="true" />
+        <option
+            name="SHOW_DIALOG"
+            value="false" />
+        <option
+            name="HIGHLIGHT_CONFLICTS"
+            value="true" />
+        <option
+            name="HIGHLIGHT_NON_ACTIVE_CHANGELIST"
+            value="false" />
+        <option
+            name="LAST_RESOLUTION"
+            value="IGNORE" />
+    </component>
+    <component name="ExternalProjectsData">
+        <projectState path="$PROJECT_DIR$">
+            <ProjectState />
+        </projectState>
+    </component>
+    <component name="ExternalProjectsManager">
+        <system id="GRADLE">
+            <state>
+                <projects_view />
+            </state>
+        </system>
+    </component>
+    <component name="FileEditorManager">
+        <leaf>
+            <file
+                current-in-tab="false"
+                leaf-file-name="activity_firstpage.xml"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_firstpage.xml">
+                    <provider editor-type-id="text-editor">
+                        <state />
+                    </provider>
+                    <provider
+                        editor-type-id="android-designer2"
+                        selected="true">
+                        <state />
+                    </provider>
+                </entry>
+            </file>
+            <file
+                current-in-tab="true"
+                leaf-file-name="build.gradle"
+                pinned="false">
+                <entry file="file://$PROJECT_DIR$/app/build.gradle">
+                    <provider
+                        editor-type-id="text-editor"
+                        selected="true">
+                        <state relative-caret-position="153">
+                            <caret
+                                column="26"
+                                line="9"
+                                selection-end-column="26"
+                                selection-end-line="9"
+                                selection-start-column="26"
+                                selection-start-line="9" />
+                        </state>
+                    </provider>
+                </entry>
+            </file>
+        </leaf>
+    </component>
+    <component name="GenerateSignedApkSettings">
+        <option
+            name="EXPORT_PRIVATE_KEY"
+            value="false" />
+        <option
+            name="KEY_STORE_PATH"
+            value="C:\Users\ndegw\Documents\Android Apps\Daily tweets\key\tweetskey.jks" />
+        <option
+            name="KEY_ALIAS"
+            value="keytweets" />
+    </component>
+    <component name="GradleLocalSettings">
+        <option name="myGradleHomes">
+            <map>
+                <entry
+                    key="$PROJECT_DIR$"
+                    value="C:\Users\ndegw\.gradle\wrapper\dists\gradle-4.6-all\bcst21l2brirad8k2ben1letg\gradle-4.6" />
+            </map>
+        </option>
+        <option name="myGradleVersions">
+            <map>
+                <entry
+                    key="$PROJECT_DIR$"
+                    value="4.6" />
+            </map>
+        </option>
+        <option name="availableProjects">
+            <map>
+                <entry>
+                    <key>
+                        <ExternalProjectPojo>
+                            <option
+                                name="name"
+                                value="Daily tweets" />
+                            <option
+                                name="path"
+                                value="$PROJECT_DIR$" />
+                        </ExternalProjectPojo>
+                    </key>
+                    <value>
+                        <list>
+                            <ExternalProjectPojo>
+                                <option
+                                    name="name"
+                                    value="Daily tweets" />
+                                <option
+                                    name="path"
+                                    value="$PROJECT_DIR$" />
+                            </ExternalProjectPojo>
+                            <ExternalProjectPojo>
+                                <option
+                                    name="name"
+                                    value=":app" />
+                                <option
+                                    name="path"
+                                    value="$PROJECT_DIR$/app" />
+                            </ExternalProjectPojo>
+                        </list>
+                    </value>
+                </entry>
+            </map>
+        </option>
+        <option name="availableTasks">
+            <map>
+                <entry key="$PROJECT_DIR$">
+                    <value>
+                        <list>
+                            <ExternalTaskPojo>
+                                <option
+                                    name="description"
+                                    value="Displays the sub-projects of root project 'Daily tweets'." />
+                                <option
+                                    name="linkedExternalProjectPath"
+                                    value="$PROJECT_DIR$" />
+                                <option
+                                    name="name"
+                                    value="projects" />
+                            </ExternalTaskPojo>
+                            <ExternalTaskPojo>
+                                <option
+                                    name="linkedExternalProjectPath"
+                                    value="$PROJECT_DIR$" />
+                                <option
+                                    name="name"
+                                    value="validateSigningDebugAndroidTest" />
+                            </ExternalTaskPojo>
+                            <ExternalTaskPojo>
+                                <option
+                                    name="linkedExternalProjectPath"
+                                    value="$PROJECT_DIR$" />
+                                <option
+                                    name="name"
+                                    value="checkDebugAndroidTestClasspath" />
+                            </ExternalTaskPojo>
+                            <ExternalTaskPojo>
+                                <option
+                                    name="linkedExternalProjectPath"
+                                    value="$PROJECT_DIR$" />
+                                <option
+                                    name="name"
+                                    value="bundleReleaseResources" />
+                            </ExternalTaskPojo>
+                            <ExternalTaskPojo>
+                                <option
+                                    name="linkedExternalProjectPath"
+                                    value="$PROJECT_DIR$" />
+                                <option
+                                    name="name"
+                                    value="reportBuildArtifactsRelease" />
+                            </ExternalTaskPojo>
+          
